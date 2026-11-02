@@ -1,0 +1,231 @@
+{
+  "ref": "main",
+  "tag": "assets-e7f8d876a6",
+  "hash": "e7f8d876a6",
+  "owner": "cahkcs",
+  "repo": "MiWan-Repo",
+  "items": [
+    {
+      "id": "com.baowwicam.cahkcs",
+      "name": "包围无惨",
+      "version": "1.1.4",
+      "codenames": [
+        "xmrw5",
+        "xmrw5xring",
+        "xmrw6",
+        "xmb10p",
+        "xmb9p",
+        "xmws3",
+        "xmws4xring",
+        "xmws441",
+        "xmws4",
+        "xmws541",
+        "xmws5"
+      ],
+      "path": "pkg/com.baowwicam.cahkcs/1.1.4/c75d477c81e31416a8035c67e3dfa844_e979af3a.rpk",
+      "size": 197329,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.baowwicam.cahkcs/1.1.4/c75d477c81e31416a8035c67e3dfa844_e979af3a.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.baowwicam.cahkcs/1.1.4/c75d477c81e31416a8035c67e3dfa844_e979af3a.rpk"
+    },
+    {
+      "id": "com.baowwicam.cahkcs",
+      "name": "包围无惨",
+      "version": "1.1.6",
+      "codenames": [
+        "xmb10",
+        "xmb10nfc",
+        "xmb11",
+        "xmb11nfc",
+        "xmb9"
+      ],
+      "path": "pkg/com.baowwicam.cahkcs/1.1.6/6fa49ea9bcc096e612e48abcb54df134_4b14e25a.rpk",
+      "size": 197501,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.baowwicam.cahkcs/1.1.6/6fa49ea9bcc096e612e48abcb54df134_4b14e25a.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.baowwicam.cahkcs/1.1.6/6fa49ea9bcc096e612e48abcb54df134_4b14e25a.rpk"
+    },
+    {
+      "id": "com.cahkcs.dituzhanchang",
+      "name": "地图战争",
+      "version": "1.4.0",
+      "codenames": [
+        "xmrw5",
+        "xmrw5xring",
+        "xmrw6",
+        "xmb10p",
+        "xmb9p"
+      ],
+      "path": "pkg/com.cahkcs.dituzhanchang/1.4.0/e66141bfe7b84e96a5b6d5e30e8a7357_84dc57fa.rpk",
+      "size": 156498,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.dituzhanchang/1.4.0/e66141bfe7b84e96a5b6d5e30e8a7357_84dc57fa.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.dituzhanchang/1.4.0/e66141bfe7b84e96a5b6d5e30e8a7357_84dc57fa.rpk"
+    },
+    {
+      "id": "com.cahkcs.dituzhanchang",
+      "name": "地图战争",
+      "version": "1.4.0",
+      "codenames": [
+        "xmb10",
+        "xmb10nfc",
+        "xmb11",
+        "xmb11nfc",
+        "xmb9"
+      ],
+      "path": "pkg/com.cahkcs.dituzhanchang/1.4.0/ce04ce33f38ce13aad8e40229aed4749_c665aafc.rpk",
+      "size": 163150,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.dituzhanchang/1.4.0/ce04ce33f38ce13aad8e40229aed4749_c665aafc.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.dituzhanchang/1.4.0/ce04ce33f38ce13aad8e40229aed4749_c665aafc.rpk"
+    },
+    {
+      "id": "com.cahkcs.toxun",
+      "name": "传输助手",
+      "version": "1.9.11",
+      "codenames": [
+        "xmrw5",
+        "xmrw5xring",
+        "xmrw6",
+        "xmb10p",
+        "xmb9p"
+      ],
+      "path": "pkg/com.cahkcs.toxun/1.9.11/ec0e87c8ade9190cdd402221cd06536d_19ddcaba.rpk",
+      "size": 360636,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.toxun/1.9.11/ec0e87c8ade9190cdd402221cd06536d_19ddcaba.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.toxun/1.9.11/ec0e87c8ade9190cdd402221cd06536d_19ddcaba.rpk"
+    },
+    {
+      "id": "com.cahkcs.toxun",
+      "name": "传输助手",
+      "version": "1.9.11",
+      "codenames": [
+        "xmb10",
+        "xmb10nfc",
+        "xmb11",
+        "xmb11nfc",
+        "xmb9"
+      ],
+      "path": "pkg/com.cahkcs.toxun/1.9.11/b6e857944571dd1c147e8acc9c9dbbce_25030b5b.rpk",
+      "size": 349442,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.toxun/1.9.11/b6e857944571dd1c147e8acc9c9dbbce_25030b5b.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.toxun/1.9.11/b6e857944571dd1c147e8acc9c9dbbce_25030b5b.rpk"
+    },
+    {
+      "id": "979844892132",
+      "name": "calanya",
+      "version": "0.12.0",
+      "codenames": [
+        "xmb11nfc",
+        "xmb11"
+      ],
+      "path": "pkg/979844892132/0.12.0/248dc4ee734dfce2cea1d77e2cdd491b_d5a9dc1f.face",
+      "size": 618416,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979844892132/0.12.0/248dc4ee734dfce2cea1d77e2cdd491b_d5a9dc1f.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979844892132/0.12.0/248dc4ee734dfce2cea1d77e2cdd491b_d5a9dc1f.face"
+    },
+    {
+      "id": "979844892132",
+      "name": "calanya",
+      "version": "0.12.0",
+      "codenames": [
+        "xmb10p"
+      ],
+      "path": "pkg/979844892132/0.12.0/df1ab43f968607a44a2405d66ce80fd4_68467ee1.face",
+      "size": 1515328,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979844892132/0.12.0/df1ab43f968607a44a2405d66ce80fd4_68467ee1.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979844892132/0.12.0/df1ab43f968607a44a2405d66ce80fd4_68467ee1.face"
+    },
+    {
+      "id": "979817235470",
+      "name": "DOOM",
+      "version": "1.1.4",
+      "codenames": [
+        "xmrw6",
+        "xmb10p",
+        "xmb9p"
+      ],
+      "path": "pkg/979817235470/1.1.4/42b4794c378aaa5ca8e84526e1dd5955_c059d85a.face",
+      "size": 256328,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979817235470/1.1.4/42b4794c378aaa5ca8e84526e1dd5955_c059d85a.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979817235470/1.1.4/42b4794c378aaa5ca8e84526e1dd5955_c059d85a.face"
+    },
+    {
+      "id": "979817235470",
+      "name": "DOOM",
+      "version": "1.1.4",
+      "codenames": [
+        "xmb10",
+        "xmb10nfc"
+      ],
+      "path": "pkg/979817235470/1.1.4/72faccfbd7dae899fcf05ed26af6f69e_fa341475.face",
+      "size": 616760,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979817235470/1.1.4/72faccfbd7dae899fcf05ed26af6f69e_fa341475.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979817235470/1.1.4/72faccfbd7dae899fcf05ed26af6f69e_fa341475.face"
+    },
+    {
+      "id": "979817235470",
+      "name": "DOOM",
+      "version": "1.1.4",
+      "codenames": [
+        "xmb9"
+      ],
+      "path": "pkg/979817235470/1.1.4/99891163f9edc85c9e5729a738d3b865_64c30f02.face",
+      "size": 234224,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979817235470/1.1.4/99891163f9edc85c9e5729a738d3b865_64c30f02.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979817235470/1.1.4/99891163f9edc85c9e5729a738d3b865_64c30f02.face"
+    },
+    {
+      "id": "979817235470",
+      "name": "DOOM",
+      "version": "1.1.4",
+      "codenames": [
+        "xmb11",
+        "xmb11nfc"
+      ],
+      "path": "pkg/979817235470/1.1.4/4edbaef25aacf6185dfdc09458ab725e_89b96c52.face",
+      "size": 299883,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/979817235470/1.1.4/4edbaef25aacf6185dfdc09458ab725e_89b96c52.face",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/979817235470/1.1.4/4edbaef25aacf6185dfdc09458ab725e_89b96c52.face"
+    },
+    {
+      "id": "com.cahkcs.damajian",
+      "name": "麻将小游戏",
+      "version": "1.6.0",
+      "codenames": [
+        "xmrw5",
+        "xmrw5xring",
+        "xmrw6",
+        "xmb10p",
+        "xmb9p"
+      ],
+      "path": "pkg/com.cahkcs.damajian/1.6.0/a29b998b60dda1ade352d552bb575bf2_5e4f6861.rpk",
+      "size": 222899,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.damajian/1.6.0/a29b998b60dda1ade352d552bb575bf2_5e4f6861.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.damajian/1.6.0/a29b998b60dda1ade352d552bb575bf2_5e4f6861.rpk"
+    },
+    {
+      "id": "com.cahkcs.damajian",
+      "name": "麻将小游戏",
+      "version": "1.5.5",
+      "codenames": [
+        "xmb10",
+        "xmb10nfc",
+        "xmb11",
+        "xmb11nfc"
+      ],
+      "path": "pkg/com.cahkcs.damajian/1.5.5/3554abd779762afbbc4b8344430e5409_85a826d5.rpk",
+      "size": 227534,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.damajian/1.5.5/3554abd779762afbbc4b8344430e5409_85a826d5.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.damajian/1.5.5/3554abd779762afbbc4b8344430e5409_85a826d5.rpk"
+    },
+    {
+      "id": "com.cahkcs.damajian",
+      "name": "麻将小游戏",
+      "version": "1.5.5",
+      "codenames": [
+        "xmb9"
+      ],
+      "path": "pkg/com.cahkcs.damajian/1.5.5/8fcbc763548912ac157342b55e6ac789_d759ee6a.rpk",
+      "size": 227284,
+      "url": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@main/pkg/com.cahkcs.damajian/1.5.5/8fcbc763548912ac157342b55e6ac789_d759ee6a.rpk",
+      "tagUrl": "https://cdn.jsdelivr.net/gh/cahkcs/MiWan-Repo@/pkg/com.cahkcs.damajian/1.5.5/8fcbc763548912ac157342b55e6ac789_d759ee6a.rpk"
+    }
+  ]
+}

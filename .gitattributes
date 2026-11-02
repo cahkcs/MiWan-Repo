@@ -1,0 +1,7 @@
+# 包体一律二进制：换行转换会改坏 rpk/face，装上去签名校验失败且看不出原因
+*.rpk binary
+*.face binary
+*.bin binary
+*.mwz binary
+*.zip binary
+*.apk binary
